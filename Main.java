@@ -16,6 +16,6 @@ public class Jarra {
               3
 
         public void metodoComunitario(){ 
-// Comentario incluido para pruebas 
+// Comentario incluido para pruebas hola
            System.out.println("Aqui escribimos todos");
          }
