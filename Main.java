@@ -12,12 +12,13 @@ public class Jarra {
 	}
 //  metodos
               1
-              	public int capacidad(){
-		return this.capacidad;
+              	public void llena(){
+		this.cantidad=this.capacidad;
 		}
-		public int cantidad(){
-		return this.cantidad;
+		public void vacia(){
+		this.cantidad=0;
 		}
+
 
               3
 
