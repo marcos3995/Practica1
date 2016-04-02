@@ -12,7 +12,13 @@ public class Jarra {
 	}
 //  metodos
               1
-              2
+              	public int capacidad(){
+			return this.capacidad;
+		}
+		public int cantidad(){
+			return this.cantidad;
+		}
+
               3
 
         public void metodoComunitario(){ 
