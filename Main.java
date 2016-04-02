@@ -11,7 +11,12 @@ public class Jarra {
 		this.capacidad=capacidadInicial;
 	}
 //  metodos
-              1
+              public int capacidad(){
+			   return this.capacidad;
+		     }
+		     public int cantidad(){
+			   return this.cantidad;
+		     }
               2
               public void llenaDesde(Jarra j){
 		while((this.cantidad<this.capacidad)&&(j.cantidad>0)){
