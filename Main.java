@@ -13,10 +13,10 @@ public class Jarra {
 //  metodos
               1
               	public int capacidad(){
-			return this.capacidad;
+		return this.capacidad;
 		}
 		public int cantidad(){
-			return this.cantidad;
+		return this.cantidad;
 		}
 
               3
